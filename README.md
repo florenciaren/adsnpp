@@ -18,7 +18,7 @@ ADSNPP was developed to address a critical gap in nuclear energy governance: the
 The platform is presented at the **IAEA Second Technical Meeting on Open-Source Software for Nuclear Engineering (ONCORE-26)**, EPFL Lausanne, July 20–24, 2026 — Topic T3: *Recent Developments of OSS and Collaborative Initiatives* (parallel simulations, GPU acceleration, new numerical methods).
 
 **Author:** Dr. Florencia Renteria del Toro, PhD  
-IAEA Fellow | UNENE Instructor | WiN Global | NAYGN Mexico Region Lead
+IAEA Fellow | WiN Global | NAYGN Mexico Region Lead
 
 ---
 
