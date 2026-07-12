@@ -28,7 +28,10 @@ python-jose[cryptography]>=3.3.0   # JWT (production replacement for TokenManage
 httpx>=0.27.0
 
 # ── Blockchain SDK ────────────────────────────────────────────────────────────
-hfc>=1.0.0              # Hyperledger Fabric Python SDK
+# NOTE: `hfc` (Hyperledger Fabric Python SDK) is not published on PyPI and
+# breaks `pip install`. The chaincode/SDK integration is not yet implemented
+# (see adsnpp/blockchain/__init__.py); vendor or replace this once it lands.
+# hfc>=1.0.0
 
 # ── Utilities ────────────────────────────────────────────────────────────────
 python-dotenv>=1.0.1
