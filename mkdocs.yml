@@ -1,0 +1,10 @@
+site_name: ADSNPP Documentation
+site_description: Algorithmic Decision System for Nuclear Power Plants
+repo_url: https://github.com/florenciaren/adsnpp
+theme:
+  name: material
+  palette:
+    scheme: default
+nav:
+  - Home: index.md
+  - Live Simulation: simulation.html
